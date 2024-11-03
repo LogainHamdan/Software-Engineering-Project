@@ -1,7 +1,7 @@
 # Software Engineering Project
 
 ## Project Overview
-This project is part of the Software Engineering course, developed by a team of three students.
+This project is part of the Software Engineering course, developed by a team of 4 students.
 
 ---
 
