@@ -11,9 +11,8 @@ This project is part of the Software Engineering course, developed by a team of 
 
 ---
 
-### Team Members
----
-## E-Minds
+## Team Members
+### E-Minds
 | Name             | Student ID  | GitHub Profile                   |
 |------------------|-------------|----------------------------------|
 | Sarah E. Alhayek | 220200395   | [GitHub](https://github.com/SarahAlhayek7) |
